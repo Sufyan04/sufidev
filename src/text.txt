@@ -1,0 +1,8 @@
+font-family: 'Roboto', sans-serif;
+font-family: 'Ubuntu', sans-serif;
+
+I am Md Sufyan Khan.One of the team with my friends. We work on the different problems faced as a student by the students ans as well as non technical persons in our life and provide guidence.
+One of the major problems faced in our college life was we didnt know where to start anything whether it is our university syllabus or our professional skills
+We all know there is a vast numbers of topics available in Computer Science Stream like
+WEB Development,App Development,Data analytics and many more 
+and there is a huge numbers of concept as well like html,css,js,nodeJS,Express,frameworks(react,angular,vue),android,ios and many more we cant even name allSo we provide a correct sequences for anythingwe want to become and we know that the right direction is must.And we provide the same.Happy Hacking!!

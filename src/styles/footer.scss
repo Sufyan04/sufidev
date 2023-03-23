@@ -1,0 +1,17 @@
+@import "colors";
+
+.foots{
+    height: 10vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    // background-color: rgb(gray,black,gray);
+    background-image: linear-gradient(to right ,purple,deeppink,tomato,blue);
+    
+    >div{
+        >.foot{
+            color: $first;
+            cursor: not-allowed;
+        }
+    }
+}
